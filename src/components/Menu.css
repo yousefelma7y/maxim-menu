@@ -1,0 +1,36 @@
+.admin-page{
+    /* background-color:  #F4C95D;  */
+    /* background-color:  #dd7230f4;  */
+    /* background-color:  #854D27; */
+    background-image: url('/public/menu2.jpg');
+    background-size: cover;
+    background-position: center;
+    /* filter: blur(1px);
+    -webkit-filter: blur(1px); */
+    color: white;
+    min-height: 100vh;
+    direction: rtl;
+    text-shadow: 2px 2px 3px  #6f6f6fc4;
+  }
+
+  .admin-logo{
+    background-color:  #854D27;
+    border-radius: 30px;
+  }
+
+  
+  .drink-title{
+    color:  #854D27;
+    text-shadow: 4px;
+  }
+  .drink-name{
+    font-size: 12px;
+  }
+  .drink-price{
+    font-size: 14px;
+  }
+
+.line{
+  border-top: 4px dashed #854D27;
+  width: 85% !important;
+}
